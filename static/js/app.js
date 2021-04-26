@@ -32,3 +32,8 @@ function buildPlot() {
 }
 
 buildPlot();
+
+// Testing loading local csv
+// d3.csv(csv_path).then(data=>{
+//   console.log(data)
+// })
